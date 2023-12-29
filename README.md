@@ -29,7 +29,6 @@ E entusiasta em desenvolvimento de jogos.
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Marcos Vieira's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marvieiradev&theme=blue-green)
 ![Marcos Vieira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marvieiradev&show_icons=true&theme=blue-green)
 
 
