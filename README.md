@@ -26,6 +26,7 @@ E entusiasta em desenvolvimento de jogos.
 <h3>⚙️ &nbsp;Back-end:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
